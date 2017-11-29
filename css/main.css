@@ -8,6 +8,11 @@ html {
   box-sizing: inherit;
 }
 
+body {
+color: #fff;
+}
+
 h1 {
 font-size: 2rem;
+background-color: #d05c2e;
 }
